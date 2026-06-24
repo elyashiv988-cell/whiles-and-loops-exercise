@@ -65,7 +65,7 @@ while i < len(items):
     i+=1
 print(items)
 # 2
-'''
+
 matrix = [[1, 2], [3, 4], [5, 6]]
 i=0
 
@@ -76,4 +76,7 @@ while i<len(matrix):
         print(matrix[i][x])
         x+=1
     i+=1
-    
+# 3 
+'''
+num=[1,2,3,4,5]
+i=-len(num)
